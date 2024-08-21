@@ -48,6 +48,3 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28615952/5d1c64c7-e5b0-435d-a019-29531890d3ba/books.csv
